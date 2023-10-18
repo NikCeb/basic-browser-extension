@@ -1,3 +1,22 @@
-.body{
-    background: linear-gradient(135deg, #153677, #4e085f) ;
+* {
+    margin: 2%;
+    padding: 2%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+}
+
+
+.container {
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(135deg, #FFCDB2, #FFB4A2) ;
+}
+
+.list_app{
+    width: 90%;
+    max-width: 90%;
+    background:#f3dbce;
+    margin: 100px auto 20px;
+    padding: 40px 30px 70px;
+    border-radius: 20px;
 }
